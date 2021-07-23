@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Ubuntu+Condensed&display=swap');
+
+.textOne{
+    font-size:70px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.containerText{
+    position: absolute;
+    color: white;
+    width:25%;
+    top: 150px;
+    left: 350px;
+}
+
+.img{
+    position: absolute;
+    top: 100px;
+    left: 65%;
+}

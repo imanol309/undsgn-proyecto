@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+    background: #7400F9;
+    width:100%
+}
+.containerImg{
+    background: white;
+    padding: 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content:center;
+}
+.Img{
+    top: 50px;
+}
+
+.containerText{
+    display: flex;
+    justify-content: center;
+}
+
+.containerLogin{
+    display: flex;
+    justify-content:center;
+}
+
+.text{
+    padding: 7%;
+}
